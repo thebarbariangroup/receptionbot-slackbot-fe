@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "CCliff <Clcliff30@gmail.com>",
-  "private": true,
   "scripts": {
     "start": "npm run build",
     "dev": "node build/dev-server.js",

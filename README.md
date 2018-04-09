@@ -1,6 +1,6 @@
-# reception-slackbot-fe
+# receptionbot-slackbot-fe
 
-This is the frontend component of the Reception Slackbot. It is the interface with which to interact with the [backend API](https://github.com/thebarbariangroup/reception-slackbot-fe).
+This is the frontend component of the Reception Slackbot. It is the interface with which to interact with the [backend API](https://github.com/thebarbariangroup/receptionbot-slackbot-fe).
 
 ## Prerequisites
  - [Node](https://nodejs.org/en/) v6.12.3 (NPM v3.10.10)
